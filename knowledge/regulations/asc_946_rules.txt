@@ -1,0 +1,13 @@
+ASC 946 requires investment companies to disclose portfolio holdings in the Schedule of Investments.
+
+Typical disclosures include:
+- Issuer name
+- Security description
+- Principal amount or shares
+- Market value
+- Classification by investment type
+- Footnote disclosures for restricted securities
+
+The Schedule of Investments should be presented in a consistent order by category and issuer.
+
+Investment companies must also disclose valuation methodology for securities categorized under Level 1, Level 2, or Level 3 of the fair value hierarchy.
