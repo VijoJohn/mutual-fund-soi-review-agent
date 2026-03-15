@@ -1,0 +1,21 @@
+Historical SOI Reporting Errors
+
+Cycle 2023
+-----------
+Tesla Inc classified under Technology sector instead of Consumer Discretionary.
+
+Cycle 2023
+-----------
+Restricted security marker (b) applied but footnote definition missing.
+
+Cycle 2024
+-----------
+Duplicate CLO tranche entry detected for Apidos CLO XXXVI.
+
+Cycle 2024
+-----------
+Sorting order inconsistency where Energy securities appeared before Financials.
+
+Reviewer Note
+--------------
+Always validate issuer + series + class uniqueness before finalizing SOI.
