@@ -1,0 +1,32 @@
+Schedule of Investments (SOI) Review Checklist
+
+1. Security Classification
+Verify each security is categorized under the correct asset class:
+Equity, Corporate Bonds, Government Securities, CLO, ABS.
+
+2. Sorting Order
+Confirm securities are ordered consistently by category and issuer.
+
+3. Duplicate Securities
+Check for duplicate securities based on issuer + series + class.
+
+4. Footnote Validation
+Ensure restricted securities and Rule 144A securities include proper footnote references.
+
+5. Floating Rate Disclosure
+Floating rate securities referencing SOFR must include spread information.
+
+6. Pricing Validation
+Validate implied price = market value / par value.
+
+7. Missing Attributes
+Verify maturity date, coupon rate, issuer name, and value fields are present.
+
+8. Prior Cycle Consistency
+Compare positions with the previous reporting cycle.
+
+9. Presentation Consistency
+Ensure formatting and category ordering match prior financial statements.
+
+10. Final Review
+Confirm total investments reconcile with financial statement totals.
